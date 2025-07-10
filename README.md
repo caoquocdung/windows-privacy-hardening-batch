@@ -14,7 +14,7 @@ A simple batch script to quickly apply privacy-oriented settings on Windows 10/1
 
 ## Usage
 
-1. **Download** `privacy-hardening.bat` from this repo.
+1. **Download** [`privacy-hardening.bat`](https://github.com/caoquocdung/windows-privacy-hardening-batch/blob/main/privacy-hardening.bat) from this repo.
 2. **Double-click** the batch file (no need to "Run as administrator"—it will auto-elevate).
 3. **Review** the console output for verification.
 4. **Restart** your PC for all changes to take effect.
